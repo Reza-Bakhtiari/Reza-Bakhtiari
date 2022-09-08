@@ -8,7 +8,30 @@
 - 💬 Ask me about **html , css , javascrip , react**
 
 - 📫 How to reach me **rezabakhtiari7334@gmail.com**
+<!--START_SECTION:waka-->
+name: Waka Readme
 
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ 7ae0243f-c3a4-45df-989c-6a99dd411fe8
+          }}
+          GH_TOKEN: ${{ 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 }}
+     🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reza bakhtiari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza bakhtiari" height="30" width="40" /></a>
