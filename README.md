@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **rezabakhtiari7334@gmail.com**
 <!--START_SECTION:waka-->
+<!--
 name: Waka Readme
 
 on:
@@ -27,6 +28,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 SHOW_OS :True
+-->
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
