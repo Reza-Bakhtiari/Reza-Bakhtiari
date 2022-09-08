@@ -3,7 +3,7 @@
 <h3 align="center">A little Front-end Developer from Iran :house:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reza-bakhtiari&label=Profile%20views&color=0e75b6&style=flat" alt="reza-bakhtiari" /> </p>
-
+  <img align="right" alt="Coding" width="400" src="./gif.gif">
 - 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **html , css , javascrip , react**
