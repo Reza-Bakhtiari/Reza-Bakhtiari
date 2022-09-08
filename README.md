@@ -9,23 +9,7 @@
 
 - 📫 How to reach me **rezabakhtiari7334@gmail.com**
 <!--START_SECTION:waka-->
-name: Waka Readme
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ 7ae0243f-c3a4-45df-989c-6a99dd411fe8
-          }}
-          GH_TOKEN: ${{ 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 }}
 
 
 <!--END_SECTION:waka-->
