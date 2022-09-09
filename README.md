@@ -33,7 +33,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-bakhtiari&show_icons=true&locale=en&layout=compact" alt="reza-bakhtiari" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reza-Bakhtiari)](https://git.io/streak-stats)
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reza-bakhtiari&show_icons=true&locale=en" alt="reza-bakhtiari" /></p>
 
