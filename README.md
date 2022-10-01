@@ -6,7 +6,7 @@
   <img align="right" alt="Coding" width="400" src="./gif.gif">
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **html , css , javascrip , react**
+- 💬 Ask me about **html , css , javascript , react**
 
 - 📫 How to reach me **rezabakhtiari7334@gmail.com**
 - 
