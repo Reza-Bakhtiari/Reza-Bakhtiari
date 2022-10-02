@@ -34,5 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-bakhtiari&show_icons=true&locale=en&layout=compact" alt="reza-bakhtiari" /></p>
 <br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reza-bakhtiari&show_icons=true&locale=en" alt="reza-bakhtiari" /></p>
 
