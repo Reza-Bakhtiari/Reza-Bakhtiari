@@ -33,7 +33,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-bakhtiari&show_icons=true&locale=en&layout=compact" alt="reza-bakhtiari" /></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-bakhtiari&show_icons=true&locale=en&layout=compact" alt="reza-bakhtiari" /></div>
 
 ### Portfolio
 
