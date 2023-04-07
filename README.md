@@ -39,12 +39,7 @@
 </div>
 
 > *pending...*
-
+<div>
 ![Reza's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+</div>
 
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
-</details>
