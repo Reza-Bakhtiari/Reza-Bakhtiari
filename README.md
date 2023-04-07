@@ -32,10 +32,11 @@
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
 
+### Stats
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reza-bakhtiari&show_icons=true&locale=en&layout=compact" alt="reza-bakhtiari" /></div>
-
-### Portfolio
+<div>
+ <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+</div>
 
 > *pending...*
 
