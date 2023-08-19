@@ -27,7 +27,10 @@ I am 18 years old. Love programming and Solving problems. I experienced Frontend
 <a href="https://www.typescriptlang.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
+
 <br/>
+<br/>
+
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
