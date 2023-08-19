@@ -1,45 +1,53 @@
-[![MasterHead](./header.png)](https://github.com/Reza-Bakhtiari)
-<h1 align="center">Hi 👋, I'm Reza Bakhtiari :computer:</h1>
-<h3 align="center">A little Front-end Developer from Iran :house:</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reza-bakhtiari&label=Profile%20views&color=0e75b6&style=flat" alt="reza-bakhtiari" /> </p>
-  <img align="right" alt="Coding" width="400" src="./gif.gif">
-- 🌱 I’m currently learning ** Typescript **
-
-- 💬 Ask me about **html , css , javascript , react**
-
-- 📫 How to reach me **rezabakhtiari7334@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<a href="https://www.w3schools.com/cpp/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+</a>
+<a href="https://www.typescriptlang.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
+</a>
+<a href="https://reactjs.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+</a>
+<a href="https://www.w3.org/html/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
+</a>
+<a href="https://getbootstrap.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
+</a>
+<a href="https://pugjs.org" target="blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="40" width="40" />
+</a>
+<a href="https://sass-lang.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40" />
+</a>
+<a href="https://tailwindcss.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
+</a>
+<a href="https://www.photoshop.com/en" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" width="40" />
+</a>
+<a href="https://www.figma.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" width="40" />
+</a>
+<a href="https://postman.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
+</a>
+<a href="https://git-scm.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
+</a>
+    
 <p align="left">
-<a href="https://linkedin.com/in/reza bakhtiari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza bakhtiari" height="30" width="40" /></a>
-<a href="https://instagram.com/rezabakhtiari.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezabakhtiari.dev" height="30" width="40" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username= Reza-Bakhtiari" alt=" Reza-Bakhtiari" />
+</a>
 </p>
-
-## ⚡ Technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-
-
-### Stats
-
-<div>
- <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-</div>
-
-> *pending...*
-
-![Reza's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
-
-
+<a href="https://www.mysql.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza-Bakhtiari&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Reza-Bakhtiari stats card" /></p>
