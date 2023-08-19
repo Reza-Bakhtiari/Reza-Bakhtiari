@@ -1,3 +1,15 @@
+# Hi, I'm Reza Bakhtiari! 👋
+# I am a little Front-end developer
+    
+- 👩‍💻 I'm currently working on...TypeScript
+
+- 🧠 I'm currently learning...Next.js
+
+- 💬 Ask me about...JavaScript & React
+
+## 🚀 About Me
+
+I am 18 years old. Love programming and Solving problems. I experienced Frontend developer ,skilled in WebDesign and JavaScript , focus on React,Typescript and familiar with Figma software and UI design . 
 <a href="https://www.w3schools.com/cpp/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" />
 </a>
@@ -28,6 +40,11 @@
 <a href="https://tailwindcss.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
 </a>
+<a href="https://nextjs.org/" target="blank">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="40" width="40" />
+</a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza-Bakhtiari&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Reza-Bakhtiari stats card" /></p>
 <a href="https://www.photoshop.com/en" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="40" width="40" />
 </a>
@@ -49,5 +66,8 @@
 <a href="https://www.mysql.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
 </a>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza-Bakhtiari&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Reza-Bakhtiari stats card" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Reza-Bakhtiari&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false" alt="Reza-Bakhtiari stats card" /></p>
+<a href="https://www.chartjs.org" target="blank">
+<img align="center" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" height="40" width="40" />
+</a>
